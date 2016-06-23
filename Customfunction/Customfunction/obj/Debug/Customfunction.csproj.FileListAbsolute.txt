@@ -1,0 +1,6 @@
+D:\ReportsTest\Customfunction\Customfunction\obj\Debug\Customfunction.csprojResolveAssemblyReference.cache
+D:\ReportsTest\Customfunction\Customfunction\bin\Debug\Customfunction.dll
+D:\ReportsTest\Customfunction\Customfunction\bin\Debug\Customfunction.pdb
+D:\ReportsTest\Customfunction\Customfunction\obj\Debug\Customfunction.dll
+D:\ReportsTest\Customfunction\Customfunction\obj\Debug\Customfunction.pdb
+D:\ReportsTest\Customfunction\Customfunction\bin\Debug\Newtonsoft.Json.dll
